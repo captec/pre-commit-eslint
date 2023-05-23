@@ -1,6 +1,5 @@
-- id: tsclint
-  name: tsclint
-  description: Lint using typescript's compiler
+- id: typescript-eslint
+  name: typescript-eslint
   language: node
   entry: eslint
   types_or: [ts, tsx]
