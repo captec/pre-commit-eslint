@@ -3,7 +3,7 @@ Repo for use with the [pre-commit](https://pre-commit.com/) tool that runs eslin
 
 # Example configuration
 ```yaml
-  - repo: ../pre-commit-eslint
+  - repo: https://github.com/captec/pre-commit-eslint.git
     rev: 0.6.1
     hooks:
     -   id: eslint
