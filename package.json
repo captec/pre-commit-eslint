@@ -1,6 +1,6 @@
 {
   "name": "@hum/pre-commit-eslint",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "main": "index.js",
   "author": "Edwin Marshall <edwin@humcapital.com>",
   "license": "MIT",
@@ -10,6 +10,7 @@
     "eslint": "^8.41.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "typescript": "4.5.4"
   }
 }
