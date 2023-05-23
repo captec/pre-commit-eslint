@@ -1,5 +1,5 @@
 - id: eslint
-  name: typescript-eslint
+  name: eslint
   language: node
   entry: eslint
   types_or: [ts, tsx]
