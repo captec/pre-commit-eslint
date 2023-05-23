@@ -1,4 +1,4 @@
-- id: typescript-eslint
+- id: eslint
   name: typescript-eslint
   language: node
   entry: eslint
