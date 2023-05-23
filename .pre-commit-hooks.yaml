@@ -1,7 +1,7 @@
 - id: eslint
   name: eslint
   language: node
-  entry: eslint
+  entry: eslint --verbose -c ./.eslintrc.cjs
   types_or: [ts, tsx]
   additional_dependencies:
     - "typescript@4.5.4"
