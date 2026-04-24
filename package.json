@@ -11,6 +11,6 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react-hooks": "^5.0.0-canary-4b877b6c6-20230519",
-    "typescript": "4.5.4"
+    "typescript": "4.9.5"
   }
 }
