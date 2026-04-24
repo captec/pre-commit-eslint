@@ -313,9 +313,9 @@ eslint-plugin-prettier@^4.2.1:
     prettier-linter-helpers "^1.0.0"
 
 eslint-plugin-react-hooks@^5.0.0-canary-4b877b6c6-20230519:
-  version "5.0.0-canary-4b877b6c6-20230519"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-5.0.0-canary-4b877b6c6-20230519.tgz#7634a83e4fbbc84318fb0dc33dce080ec36be720"
-  integrity sha512-4ClkQJH6NmzKGQrOEAZdY23UI//55MkOdzwcWwmM3oDXobOV9T/d4Qug7bdYx23sk4kXNyXf8WgWBUHvsnOVPw==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-5.2.0.tgz#1be0080901e6ac31ce7971beed3d3ec0a423d9e3"
+  integrity sha512-+f15FfK64YQwZdJNELETdn5ibXEUQmW1DZL6KXhNnc2heoy/sg9VJJeT7n8TlMWouzWqSWavFkIhHyIbIAEapg==
 
 eslint-scope@^5.1.1:
   version "5.1.1"
